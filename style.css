@@ -39,6 +39,7 @@ header{
 }
 header h2{
   color: var(--Cyan);
+  margin-top: 2rem;
   margin-bottom: 1.5rem;
 }
 header h4{
